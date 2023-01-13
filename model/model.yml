@@ -15,6 +15,10 @@ Institution: !record
   fields:
     name: string
     address: string
+    
+    sdfgsgf
+    sdfg
+    sdfg
 
 Detector: !record
   fields:
